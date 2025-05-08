@@ -1,0 +1,4 @@
+experiment.txt
+
+Experiment/*
+!Experiment/test1.txt
